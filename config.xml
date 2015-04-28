@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8' ?>
-<widget id="io.cocoon.template.polymer.tutorial" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:cocoon="http://cocoon.io/ns/1.0">
+<widget id="io.template.polymer.tutorial" version="1.0.3" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" xmlns:cocoon="http://cocoon.io/ns/1.0">
     <name>Polymer template</name>
     <description>
         Polymer template for Cocoon.io cloud compiler based on Getting started at https://www.polymer-project.org/0.5/docs/start/tutorial/intro.html
