@@ -57,7 +57,7 @@
   }, 
   {
     "uid": 9,
-    "text" : "I am purrrrr evil",
+    "text" : "I am purrrrr evil.",
     "username" : "Cat",
     "avatar" : "images/avatar-12.svg",
     "favorite": false
