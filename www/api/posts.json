@@ -64,7 +64,7 @@
   },
   {
     "uid": 10,
-    "text" : "Zelda, I think I have found your cat...",
+    "text" : "Zelda, I think I found your cat...",
     "username" : "Marta",
     "avatar" : "images/avatar-13.svg",
     "favorite": false
