@@ -3,7 +3,7 @@ Polymer template
 
 ## Introduction
 
-This demo is based on based on ["Your first Polymer app" tutorial](https://www.polymer-project.org/0.5/docs/start/creatingelements.html) at Polymer's [Getting started section](https://www.polymer-project.org/0.5/docs/start/creatingelements.html).
+This demo is based on ["Your first Polymer app" tutorial](https://www.polymer-project.org/0.5/docs/start/creatingelements.html) at Polymer's [Getting started section](https://www.polymer-project.org/0.5/docs/start/creatingelements.html).
 
 
 This demo is built using [Polymer](https://www.polymer-project.org/0.5/) and [Cocoon Webview+](https://cocoon.io/doc/webview_plus) in portrait view and fullscreen. 
