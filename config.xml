@@ -7,9 +7,6 @@
     <author email="polymer-dev@googlegroups.com" href="https://www.polymer-project.org/">
         Polymer
     </author>
-    
-    <!-- Shown in the wizard -->
-    <icon src="icon.png" />
 
     <content src="index.html" />
     <access origin="*" />
